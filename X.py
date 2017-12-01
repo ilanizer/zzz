@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-import 666
-from 666.lib.curve.ttypes import *
+import pro6
+from pro6.lib.curve.ttypes import *
 from datetime import datetime
 from bs4 import BeautifulSoup
 import time, random,sys,re,os, json,subprocess,threading, string,codecs,requests,ctypes,urllib,urllib2,urllib3,wikipedia
